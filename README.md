@@ -1,4 +1,4 @@
-<div style="width:50%; min-width:300px; margin:auto; padding-left:5px">
+<div style="width:50%; min-width:300px; margin:auto; max-width: 700px; padding-left:5px">
 <img src="CLIngON.png"/>
 </div>
 
