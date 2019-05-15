@@ -1,4 +1,4 @@
-
+```
   /$$$$$$  /$$       /$$$$$$                      /$$$$$$  /$$   /$$
  /$$__  $$| $$      |_  $$_/                     /$$__  $$| $$$ | $$
 | $$  \__/| $$        | $$   /$$$$$$$   /$$$$$$ | $$  \ $$| $$$$| $$
@@ -10,6 +10,8 @@
                                        /$$  \ $$
                                       |  $$$$$$/
                                        \______/
+
+```
 =======
 
 **CLIngON** allows you to scaffold frontmatter and/or other metadata into your [`mdx`](https://mdxjs.com) or `markdown` files.
