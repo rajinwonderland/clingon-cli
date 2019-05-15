@@ -1,5 +1,5 @@
-<div style="width:100%;padding-left:5px">
-<img src="clingon.png" width="50%" style="min-width:300px; margin:auto;"/>
+<div style="width:50%; min-width:300px; margin:auto; padding-left:5px">
+<img src="CLIngON.png"/>
 </div>
 
 ---
