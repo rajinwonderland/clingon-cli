@@ -1,7 +1,7 @@
 {
   "name": "clingon-cli",
   "description": "CLIngON allows you to scaffold frontmatter and/or other metadata into your mdx or markdown files.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "rajinwonderland @rajinwonderland",
   "bin": {
     "clingon": "./bin/run"
