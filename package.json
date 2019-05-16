@@ -71,6 +71,7 @@
     "posttest": "tslint -p . -t stylish",
     "prepack": "rm -rf lib && tsc -b && oclif-dev manifest",
     "readme": "oclif-dev readme",
+    "prerelease": "oclif-dev pac && oclif-dev publish",
     "test": "echo NO TESTS",
     "version": "oclif-dev readme && git add README.md"
   },
