@@ -47,9 +47,14 @@
     "/npm-shrinkwrap.json",
     "/oclif.manifest.json"
   ],
-  "homepage": "https://github.com/rajinwonderland/clingon",
+  "homepage": "https://github.com/rajinwonderland/clingon-cli",
   "keywords": [
-    "oclif"
+    "oclif",
+    "frontatter",
+    "mdx",
+    "markdown",
+    "cli generator",
+    "frontmatter generator"
   ],
   "license": "MIT",
   "main": "lib/index.js",
@@ -60,7 +65,7 @@
       "@oclif/plugin-help"
     ]
   },
-  "repository": "rajinwonderland/clingon",
+  "repository": "https://github.com/rajinwonderland/clingon-cli",
   "scripts": {
     "postpack": "rm -f oclif.manifest.json",
     "posttest": "tslint -p . -t stylish",
