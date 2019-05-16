@@ -13,8 +13,10 @@
 
 # TOC
 <!-- toc -->
+* [TOC](#toc)
 * [Usage](#usage)
 * [Commands](#commands)
+* [Example Output](#example-output)
 <!-- tocstop -->
 # Usage
 <!-- usage -->
@@ -23,7 +25,7 @@ $ npm install -g clingon-cli
 $ clingon COMMAND
 running command...
 $ clingon (-v|--version|version)
-clingon-cli/0.0.1 darwin-x64 node-v10.13.0
+clingon-cli/0.0.2 darwin-x64 node-v10.13.0
 $ clingon --help [COMMAND]
 USAGE
   $ clingon COMMAND
@@ -32,18 +34,14 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
-- [TOC](#toc)
-- [Usage](#usage)
-- [Commands](#commands)
-  - [`clingon convert`](#clingon-convert)
-  - [`clingon create`](#clingon-create)
-  - [`clingon help [COMMAND]`](#clingon-help-command)
-  - [`clingon list`](#clingon-list)
-- [Example Output](#example-output)
+* [`clingon convert`](#clingon-convert)
+* [`clingon create`](#clingon-create)
+* [`clingon help [COMMAND]`](#clingon-help-command)
+* [`clingon list`](#clingon-list)
 
 ## `clingon convert`
 
-Convert a medium url into plain old markdown 😎
+[38;5;218mConvert a medium url into plain old markdown 😎[39m
 
 ```
 USAGE
@@ -56,11 +54,11 @@ OPTIONS
                        the markdown
 ```
 
-_See code: [src/commands/convert.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.1/src/commands/convert.ts)_
+_See code: [src/commands/convert.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.2/src/commands/convert.ts)_
 
 ## `clingon create`
 
-Scaffold metadata or frontmatter for your mdx or md content
+[38;5;218mScaffold metadata or frontmatter for your mdx or md content[39m
 
 ```
 USAGE
@@ -76,7 +74,7 @@ EXAMPLES
   clingon create -e=mdx
 ```
 
-_See code: [src/commands/create.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.1/src/commands/create.ts)_
+_See code: [src/commands/create.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.2/src/commands/create.ts)_
 
 ## `clingon help [COMMAND]`
 
@@ -107,7 +105,7 @@ OPTIONS
   -h, --help  show CLI help
 ```
 
-_See code: [src/commands/list.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.1/src/commands/list.ts)_
+_See code: [src/commands/list.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.2/src/commands/list.ts)_
 <!-- commandsstop -->
 
 
@@ -163,4 +161,3 @@ The `clingon create blog` command also will take the title you input and automat
 | title: "I am Ironman"     | _File with the same name exists_         | `i-am-ironman-cjvpxcrh8000001msf9pfeayq` | `path/to/content/i-am-ironman-cjvpxcrh8000001msf9pfeayq/index.mdx` |
 
 > Note if a file path with the same directory already exists, a new directory will be created with a collision-resistant id ([`cuid`](https://www.npmjs.com/package/cuid)) hashed at the end to avoid any overwriting issues.
-
