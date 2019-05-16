@@ -218,7 +218,7 @@
         "signature": "9b61de75280f6f481c9c68b43f246b2a43a05425135b18bb132b0f9a99d31751"
       },
       "/users/rajinmacland/documents/oss/clingon/src/utils/utils.ts": {
-        "version": "2fa3cbe1fefbcefb64ce1b7bd4f52202814811da033f5b0c48296cbdfaf339c0",
+        "version": "9130eaedb0967d4789a0969fec0ca49c0b1aeb7f03fd2579cb1bb7de68f81b15",
         "signature": "aad61144894ae1e4ce8c3d8a2469b0a1e84bc8986617694d4b6084d69e1aa1fd"
       },
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/globals.d.ts": {
@@ -670,7 +670,7 @@
         "signature": "ae2a07a6cf97809e15b7179f3b8fb5ee54293b403f27b9049d5188c805cc7e5e"
       },
       "/users/rajinmacland/documents/oss/clingon/src/utils/inquire.ts": {
-        "version": "06c814ff53370d4c55a8a2d69b63da1244a51754363aec576b533b790007b4a3",
+        "version": "2fc4e497e76fbdc18e6afb235ccae3e5134f17d0be1be1a182ff3b975d5f7af3",
         "signature": "60b470f09887324bd7e247adc6be5e3d0e39f430c0e0e2afe7e0e01595033127"
       },
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node-fetch/index.d.ts": {
@@ -700,14 +700,6 @@
       "/users/rajinmacland/documents/oss/clingon/src/types/index.d.ts": {
         "version": "daf6dbac6d09a0014a10e3f38011d60b91d233fd12eb5f96036495ebef1143f8",
         "signature": "daf6dbac6d09a0014a10e3f38011d60b91d233fd12eb5f96036495ebef1143f8"
-      },
-      "/users/rajinmacland/documents/oss/clingon/node_modules/commander/typings/index.d.ts": {
-        "version": "ce0594a0432dce2f4e9f6130d538a52d6292ca323e729b75d8e0febd9134dc65",
-        "signature": "ce0594a0432dce2f4e9f6130d538a52d6292ca323e729b75d8e0febd9134dc65"
-      },
-      "/users/rajinmacland/documents/oss/clingon/src/utils/index.ts": {
-        "version": "09a281c9d69e679e1e3366140746cb60f24a2c0d2df0453175cc2805edc73ae9",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/tinycolor2/index.d.ts": {
         "version": "27bd05635cf2be7e3f75f375de542eab00cbb24c6b9961d37a0bf99fd344d1fc",
@@ -1795,22 +1787,6 @@
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/commander/typings/index.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/src/utils/index.ts": [
-        "/users/rajinmacland/documents/oss/clingon/src/utils/createblog.ts",
-        "/users/rajinmacland/documents/oss/clingon/src/utils/inquire.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/ora/index.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/src/utils/authors.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/path.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/src/utils/frommedium.ts",
-        "/users/rajinmacland/documents/oss/clingon/src/utils/utils.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/commander/typings/index.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/tinycolor2/index.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
@@ -2830,11 +2806,11 @@
         "/users/rajinmacland/documents/oss/clingon/src/utils/authors.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/src/types/index.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      "/users/rajinmacland/documents/oss/clingon/src/commands/list.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/commander/typings/index.d.ts": [
+      "/users/rajinmacland/documents/oss/clingon/src/types/index.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2845,10 +2821,6 @@
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/validator/index.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/src/commands/list.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -2905,6 +2877,7 @@
       "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts",
       "/users/rajinmacland/documents/oss/clingon/src/index.ts",
       "/users/rajinmacland/documents/oss/clingon/node_modules/chalk/types/index.d.ts",
+      "/users/rajinmacland/documents/oss/clingon/src/utils/authors.ts",
       "/users/rajinmacland/documents/oss/clingon/src/utils/utils.ts",
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/globals.d.ts",
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/assert.d.ts",
@@ -3024,13 +2997,10 @@
       "/users/rajinmacland/documents/oss/clingon/src/commands/convert.ts",
       "/users/rajinmacland/documents/oss/clingon/src/utils/createblog.ts",
       "/users/rajinmacland/documents/oss/clingon/src/commands/create.ts",
+      "/users/rajinmacland/documents/oss/clingon/src/commands/list.ts",
       "/users/rajinmacland/documents/oss/clingon/src/types/index.d.ts",
-      "/users/rajinmacland/documents/oss/clingon/node_modules/commander/typings/index.d.ts",
-      "/users/rajinmacland/documents/oss/clingon/src/utils/index.ts",
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/tinycolor2/index.d.ts",
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/validator/index.d.ts",
-      "/users/rajinmacland/documents/oss/clingon/src/utils/authors.ts",
-      "/users/rajinmacland/documents/oss/clingon/src/commands/list.ts"
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/validator/index.d.ts"
     ]
   },
   "version": "3.4.5"

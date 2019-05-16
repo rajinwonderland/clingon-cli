@@ -1,5 +1,5 @@
 {
-  "name": "clingon",
+  "name": "clingon-cli",
   "description": "CLIngON allows you to scaffold frontmatter and/or other metadata into your mdx or markdown files.",
   "version": "0.0.1",
   "author": "rajinwonderland @rajinwonderland",
@@ -69,7 +69,8 @@
   "scripts": {
     "postpack": "rm -f oclif.manifest.json",
     "posttest": "tslint -p . -t stylish",
-    "prepack": "rm -rf lib && tsc -b && oclif-dev manifest && oclif-dev readme",
+    "prepack": "rm -rf lib && tsc -b && oclif-dev manifest",
+    "readme": "oclif-dev readme",
     "test": "echo NO TESTS",
     "version": "oclif-dev readme && git add README.md"
   },
