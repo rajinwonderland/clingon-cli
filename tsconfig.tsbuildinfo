@@ -1929,31 +1929,6 @@
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/alphabet.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/alphabet.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/metadata.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/parse.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/args.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/metadata.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/help.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/index.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/args.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
@@ -1962,44 +1937,52 @@
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/command.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/index.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/index.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/flags.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/command.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/flags.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/main.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/src/commands/list.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/src/commands/create.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/src/utils/authors.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/src/commands/convert.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/src/index.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/main.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/index.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/flags.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/index.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/index.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/command.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/index.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/index.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/hooks.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/index.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/pjson.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/manifest.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/command.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/topic.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/plugin.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/command.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/manifest.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/pjson.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/topic.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/config.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/command.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/hooks.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/pjson.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/plugin.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/topic.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2014,35 +1997,65 @@
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/flags.d.ts": [
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/hooks.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/index.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/index.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/config.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/command.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/hooks.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/pjson.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/plugin.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/topic.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/plugin.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/command.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/manifest.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/pjson.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/topic.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/manifest.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/command.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/parse.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/args.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/metadata.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/alphabet.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/alphabet.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/help.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/command.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/index.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/index.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/flags.d.ts",
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/metadata.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/main.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/index.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts",
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/pjson.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/command.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/flags.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/main.d.ts",
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/config/lib/topic.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/src/index.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts"
       ],
       "/users/rajinmacland/documents/oss/clingon/node_modules/chalk/types/index.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
@@ -2051,210 +2064,18 @@
       "/users/rajinmacland/documents/oss/clingon/src/utils/utils.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/chalk/types/index.d.ts"
       ],
+      "/users/rajinmacland/documents/oss/clingon/src/utils/createblog.ts": [
+        "/users/rajinmacland/documents/oss/clingon/src/utils/utils.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/src/utils/inquire.ts": [
+        "/users/rajinmacland/documents/oss/clingon/src/utils/utils.ts",
+        "/users/rajinmacland/documents/oss/clingon/src/utils/authors.ts"
+      ],
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/globals.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/assert.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/async_hooks.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/buffer.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/child_process.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/cluster.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/child_process.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/console.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/constants.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/crypto.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/dgram.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/dns.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/dns.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/domain.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/fs.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/http.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/http2.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/fs.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/tls.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/http.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/https.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/tls.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/http.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/inspector.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/module.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/dns.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/os.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/path.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/perf_hooks.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/async_hooks.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/process.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/punycode.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/querystring.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/readline.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/repl.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/readline.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/vm.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/string_decoder.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/timers.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/tls.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/crypto.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/dns.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/trace_events.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/tty.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/querystring.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/v8.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/vm.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/worker_threads.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/zlib.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2301,19 +2122,24 @@
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/zlib.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/globals.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/globals.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/index.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/base.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/globals.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node-fetch/index.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/http.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/ora/index.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/cli-spinners/index.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/rajinmacland/documents/oss/clingon/node_modules/@types/through/index.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
@@ -2321,389 +2147,217 @@
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/iif.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/throwerror.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/iif.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/throwerror.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/connectableobservable.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operators/groupby.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/symbol/observable.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/behaviorsubject.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/replaysubject.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/asyncsubject.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/action.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/action.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/action.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncaction.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncaction.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/action.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asapscheduler.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncaction.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asap.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asapscheduler.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/async.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/queuescheduler.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/queue.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/queuescheduler.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/animationframescheduler.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncaction.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/animationframe.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/animationframescheduler.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/virtualtimescheduler.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncaction.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/notification.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/pipe.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/noop.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/identity.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/isobservable.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/argumentoutofrangeerror.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/emptyerror.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/objectunsubscribederror.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/unsubscriptionerror.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/timeouterror.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/bindcallback.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/bindnodecallback.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/innersubscriber.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/outersubscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/outersubscriber.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/innersubscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/combinelatest.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/outersubscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/innersubscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/concat.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/defer.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/empty.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/forkjoin.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/from.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/fromevent.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/fromeventpattern.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/fromevent.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/generate.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/interval.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/merge.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/never.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/of.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/onerrorresumenext.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/pairs.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/partition.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/race.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/outersubscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/innersubscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/range.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/timer.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/using.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/zip.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduled/scheduled.d.ts": [
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/inquirer/index.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/through/index.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/index.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/readline.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/config.d.ts": [
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/async_hooks.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/async_hooks.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/buffer.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/child_process.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/cluster.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/child_process.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/console.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/constants.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/crypto.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/tls.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/crypto.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/dns.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/https.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/tls.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/http.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/http2.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/fs.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/tls.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/http.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/dgram.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/dns.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/dns.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/dns.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/tty.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/http.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/net.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/domain.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/zlib.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/readline.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/repl.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/readline.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/vm.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/fs.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/stream.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/inspector.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/events.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/module.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/os.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/path.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/process.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/punycode.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/querystring.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/querystring.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/string_decoder.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/timers.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/trace_events.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/validator/index.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/tinycolor2/index.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/src/types/index.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/cli-spinners/index.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2766,59 +2420,405 @@
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/inquirer/index.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/through/index.d.ts",
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduled/scheduled.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/index.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/readline.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/cli-spinners/index.d.ts": [
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/config.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/ora/index.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/cli-spinners/index.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/index.d.ts",
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/zip.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/src/utils/inquire.ts": [
-        "/users/rajinmacland/documents/oss/clingon/src/utils/utils.ts",
-        "/users/rajinmacland/documents/oss/clingon/src/utils/authors.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node-fetch/index.d.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/http.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/url.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/index.d.ts",
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/using.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/src/commands/convert.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/src/utils/createblog.ts": [
-        "/users/rajinmacland/documents/oss/clingon/src/utils/utils.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/src/commands/create.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/src/utils/authors.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/src/commands/list.ts": [
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/parser/lib/flags.d.ts",
-        "/users/rajinmacland/documents/oss/clingon/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "/users/rajinmacland/documents/oss/clingon/src/types/index.d.ts": [
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/timer.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/tinycolor2/index.d.ts": [
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/range.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/validator/index.d.ts": [
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/race.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/outersubscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/innersubscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/partition.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/pairs.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/onerrorresumenext.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/of.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/never.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/merge.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/interval.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/generate.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/fromeventpattern.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/fromevent.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/fromevent.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/from.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/forkjoin.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/empty.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/defer.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/concat.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/combinelatest.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/outersubscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/innersubscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/outersubscriber.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/innersubscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/innersubscriber.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/outersubscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/bindnodecallback.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/bindcallback.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/timeouterror.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/unsubscriptionerror.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/objectunsubscribederror.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/emptyerror.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/argumentoutofrangeerror.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/isobservable.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/identity.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/noop.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/util/pipe.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/notification.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/virtualtimescheduler.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncaction.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/animationframe.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/animationframescheduler.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/animationframescheduler.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncaction.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/queue.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/queuescheduler.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/queuescheduler.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/async.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asap.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asapscheduler.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asapscheduler.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncaction.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncaction.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/action.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncscheduler.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/action.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/asyncaction.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/action.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/scheduler/action.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/asyncsubject.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/replaysubject.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/behaviorsubject.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/symbol/observable.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operators/groupby.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/connectableobservable.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subject.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/iif.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/throwerror.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/throwerror.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable/iif.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/observable.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/operator.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscriber.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/subscription.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/rxjs/internal/types.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/globals.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/vm.d.ts": [
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
+        "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/v8.d.ts": [
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/util.d.ts",
         "/users/rajinmacland/documents/oss/clingon/node_modules/@types/node/ts3.2/util.d.ts"
       ]
