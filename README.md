@@ -1,7 +1,6 @@
-<div style="width:50%; min-width:300px; margin:auto; max-width: 700px; padding-left:5px">
-<img src="CLIngON.png"/>
+<div style="padding-left:5px; width:300px; margin:auto;">
+<img src="CLIngON.png" width="300px" style="margin:auto;"/>
 </div>
-
 ---
 
 **CLIngON** allows you to scaffold frontmatter and/or other metadata into your [`mdx`](https://mdxjs.com) or `markdown` files.
