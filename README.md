@@ -25,7 +25,7 @@ $ npm install -g clingon-cli
 $ clingon COMMAND
 running command...
 $ clingon (-v|--version|version)
-clingon-cli/0.0.4 darwin-x64 node-v10.13.0
+clingon-cli/0.0.5 darwin-x64 node-v10.13.0
 $ clingon --help [COMMAND]
 USAGE
   $ clingon COMMAND
@@ -54,7 +54,7 @@ OPTIONS
                        the markdown
 ```
 
-_See code: [src/commands/convert.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.4/src/commands/convert.ts)_
+_See code: [src/commands/convert.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.5/src/commands/convert.ts)_
 
 ## `clingon create`
 
@@ -74,7 +74,7 @@ EXAMPLES
   clingon create -e=mdx
 ```
 
-_See code: [src/commands/create.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.4/src/commands/create.ts)_
+_See code: [src/commands/create.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.5/src/commands/create.ts)_
 
 ## `clingon help [COMMAND]`
 
@@ -105,7 +105,7 @@ OPTIONS
   -h, --help  show CLI help
 ```
 
-_See code: [src/commands/list.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.4/src/commands/list.ts)_
+_See code: [src/commands/list.ts](https://github.com/rajinwonderland/clingon-cli/blob/v0.0.5/src/commands/list.ts)_
 <!-- commandsstop -->
 
 
